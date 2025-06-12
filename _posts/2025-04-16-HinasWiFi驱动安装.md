@@ -4,7 +4,7 @@ title:  "HinasWiFi驱动安装"
 date:   2025-04-16 09:07:18 +0800
 categories: 网络日志
 tags: hinas 海纳思 wifi
-author: Logan
+author: LuoHuiLong
 excerpt: HinasWiFi驱动安装的操作方法以及配置文件设置等。
 ---
 

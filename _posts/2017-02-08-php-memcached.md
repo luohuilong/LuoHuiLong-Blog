@@ -4,7 +4,7 @@ title:  "WordPress启用memcached缓存"
 date:   2017-02-08 08:07:18 +0800
 categories: 网络日志
 tags: wordpress memcached
-author: Logan
+author: LuoHuiLong
 excerpt: memcached是memcache后续版本，能用d的就优先用，这是一个分布式缓存方法，可大量减少对数据库的操作，是个好工具。
 ---
 

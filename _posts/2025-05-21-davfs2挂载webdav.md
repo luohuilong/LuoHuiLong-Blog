@@ -4,7 +4,7 @@ title:  "Linux中使用davfs2挂载WebDav网盘"
 date:   2025-05-21 11:05:18 +0800
 categories: 网络日志
 tags: davfs2 linux webdav
-author: Logan
+author: LuoHuiLong
 excerpt: davfs2 是一个 Linux 文件系统驱动程序，允许挂载 WebDAV 资源，WebDAV 是 HTTP/1.1 的扩展，允许远程协作编写 Web 资源。
 ---
 

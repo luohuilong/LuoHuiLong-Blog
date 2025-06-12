@@ -4,7 +4,7 @@ title:  "Windows下apache+php搭建过程"
 date:   2016-12-08 08:07:18 +0800
 categories: 网络日志
 tags: apache php
-author: Logan
+author: LuoHuiLong
 excerpt: 简单说说Windows下apache+php的搭建
 ---
 

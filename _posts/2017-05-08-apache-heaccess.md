@@ -4,7 +4,7 @@ title:  "htaccess使用方法总结"
 date:   2017-05-08 08:07:18 +0800
 categories: 网络日志
 tags: apache htaccess
-author: Logan
+author: LuoHuiLong
 excerpt: 简单介绍.htaccess的使用方法，对于初学很有帮助，包括我自己,嘿嘿..!
 ---
 

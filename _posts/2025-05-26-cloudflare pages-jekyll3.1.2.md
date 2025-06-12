@@ -4,7 +4,7 @@ title:  "cloudflare pages 构建 jekyll 3.1.2版本 "
 date:   2025-05-26 08:07:18 +0800
 categories: 网络日志
 tags: jekyll cloudflare
-author: Logan
+author: LuoHuiLong
 excerpt: 利用cloudflare pages 链接github的jekyll地址，构建全球部署的pages。
 ---
 

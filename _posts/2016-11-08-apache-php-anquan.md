@@ -4,7 +4,7 @@ title:  "Windows下配置安全的WebServer"
 date:   2016-11-08 08:07:18 +0800
 categories: 网络日志
 tags: apache web
-author: Logan
+author: LuoHuiLong
 excerpt: apache+php的一种降低用户权限的做法同时也方便设置读写操作，目录关闭或开启写权限操作
 ---
 

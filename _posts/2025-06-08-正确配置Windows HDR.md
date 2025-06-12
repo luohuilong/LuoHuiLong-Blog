@@ -4,7 +4,7 @@ title:  "如何正确配置Windows HDR显示"
 date:   2025-06-08 08:07:18 +0800
 categories: 网络日志
 tags: HDR windows
-author: Logan
+author: LuoHuiLong
 excerpt: 全文将以目前的最新版v4.3.7为例，进行参数设置，老版本某些功能不太一致，请知悉。
 ---
 

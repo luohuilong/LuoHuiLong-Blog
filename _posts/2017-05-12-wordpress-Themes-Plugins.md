@@ -4,7 +4,7 @@ title:  "推荐WordPress简洁主题和实用插件"
 date:   2017-05-12 09:07:18 +0800
 categories: 网络日志
 tags: wordpress
-author: Logan
+author: LuoHuiLong
 excerpt: 此资料希望给WordPress新手使用者一些帮助，2款简洁的主题和8个实用的插件
 ---
 
